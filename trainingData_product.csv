@@ -1,0 +1,9 @@
+﻿ProductID,Name,ManufacturerID,MSRP,ProductCategoryID,ProductSizeID,ProductDescriptionID,Status
+0,Zero Gravity Chair Gen 0,2,120,1,1,1,inactive
+1,Zero Gravity Chair Gen 1,2,120,1,1,1,active
+2,Zero Gravity Chair Gen 2,2,120,1,1,1,active
+3,Zero Gravity Chair Gen 3,2,120,1,1,1,active
+4,Deep Sleep X3000,1,150,2,2,2,active
+5,Deep Sleep X3000,1,250,2,3,2,active
+6,Deep Sleep X3000,1,350,2,4,2,active
+7,Deep Sleep X3000,1,550,2,5,2,active
